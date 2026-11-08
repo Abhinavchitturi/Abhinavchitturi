@@ -23,10 +23,10 @@
 ## Products and proof
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/vaishnavi-894/ParsonPuzzle">ParsonPuzzle</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 1 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Abhinavchitturi/SECPAY-Secure-EV-Charging-Payment-Authority">SECPAY-Secure-EV-Charging-Payment-Authority</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 1 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Abhinavchitturi/Adaptive-Density-Based-Customer-Segmentation-Pipeline">Adaptive-Density-Based-Customer-Segmentation-Pipeline</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Abhinavchitturi/Email-Categorizer-AI">Email-Categorizer-AI</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Abhinavchitturi/Document-vault">Document-vault</a></b></td><td>Private, local-first document vault with RAG (Ollama), OCR, and hybrid search.<br/><sub>Python · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Abhinavchitturi/PhoneBridge">PhoneBridge</a></b></td><td>Phone Link for Mac + Android: notifications, calls, messages, and file sync.<br/><sub>Swift · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Abhinavchitturi/dispute-intelligence">dispute-intelligence</a></b></td><td>AI investigation workbench for PayPal disputes with sandbox API integration.<br/><sub>TypeScript · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Abhinavchitturi/agriintel">agriintel</a></b></td><td>Advanced agricultural intelligence and data pipeline platform.<br/><sub>TypeScript</sub></td></tr>
 </table>
 
 ## Momentum
